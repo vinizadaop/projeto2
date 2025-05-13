@@ -8,5 +8,5 @@ Este projeto simula um sistema de vendas simples com classes para Cliente, Produ
 1. Compile todos os arquivos:
 
 
-responsavel: vinicius ppequeno araujo
-auxiliar; renan veras
+responsavel: vinicius pequeno araujo
+auxiliar: renan veras
