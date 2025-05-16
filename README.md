@@ -1,3 +1,8 @@
+
+responsavel: vinicius pequeno araujo
+auxiliar: renan veras
+
+
 # Projeto - Sistema Comercial (Fase 2)
 
 ## Descrição
